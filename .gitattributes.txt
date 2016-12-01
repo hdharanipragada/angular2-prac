@@ -1,3 +1,5 @@
+*.html ident export-subst
+
 /tests export-ignore
 /stubs export-ignore
 /.gitignore export-ignore
@@ -6,3 +8,6 @@
 /phpunit.xml export-ignore
 /changelog.md export-ignore
 /readme.md export-ignore
+
+
+$Format:%ci$ ($Format:%h$)
