@@ -1,0 +1,5 @@
+# do not include this file
+.png
+
+#do not include zipped files
+.zip
